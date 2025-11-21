@@ -76,6 +76,7 @@ dns:
     - "+.lan"
     - "+.local"
     - "rule-set:private_domain,cn_domain"
+    - "+.apple.com"
     - "+.msftconnecttest.com"
     - "+.msftncsi.com"
     - "+.services.googleapis.cn"
